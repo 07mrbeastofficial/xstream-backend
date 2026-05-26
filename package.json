@@ -1,7 +1,7 @@
 {
   "name": "xstream-api",
-  "version": "1.0.2",
-  "description": "XStream Backend API Server - Video Streaming Platform",
+  "version": "2.0.0",
+  "description": "XStream Backend API Server - High Performance Video Streaming",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
